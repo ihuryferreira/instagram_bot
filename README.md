@@ -12,7 +12,7 @@
 - time
 
 # Interface Gráfica
-<div style="display: flex">
+<div style="display: inline">
   <img src="https://github.com/ihuryferreira/instagram_bot/blob/main/imagem/login.png" width="212">
   <br>
   <img src="https://github.com/ihuryferreira/instagram_bot/blob/main/imagem/cadastro_de_usuario.png" width="212">
