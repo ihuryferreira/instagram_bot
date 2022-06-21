@@ -28,4 +28,4 @@
         <div style="width:32%;">
             <img src="https://github.com/ihuryferreira/instagram_bot/blob/main/imagem/login_instagram.png" width="212">
         </div>
-    </div>
+</div>
