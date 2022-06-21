@@ -13,7 +13,7 @@
 
 # Interface Gráfica
 <div style="display: flex; flex-wrap: nowrap;">
-        <div style="width:28%;">
-            <img src="https://github.com/ihuryferreira/instagram_bot/blob/main/imagem/desktop.png" width="522">
+        <div style="width:100%;">
+            <img src="https://github.com/ihuryferreira/instagram_bot/blob/main/imagem/desktop.png" width="622">
         </div>
 </div>
