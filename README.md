@@ -19,7 +19,7 @@
         </div>
 </div>
 
-# para usar o selenium e o drive exe:
+# Para usar o selenium e o drive exe:
 
 1) use pip install selenium
 2) Baixe o Chrome chrome_proxy.exe ou geckodriver.exe
