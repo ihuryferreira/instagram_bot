@@ -6,10 +6,11 @@
 # version
 - 1.0.0
 
-# Framework usados:
+# Biblioteca usados:
 - Tkinter
 - selenium
-- time
+
+# Banco de Dados usado:
 - Sqlite3
 
 # Interface Gráfica
